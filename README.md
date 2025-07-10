@@ -12,7 +12,7 @@ This project is a responsive team portfolio web page built with HTML and Tailwin
 
 Below is a screenshot of the project:
 
-![Screenshot of the Team Portfolio](./Screenshot%202025-07-04%20103706.png)
+![Screenshot of the Team Portfolio]("C:\Users\Patel Grisha\OneDrive\Desktop\grisha\HTML\project_2\Image.png")
 
 ## Getting Started
 
