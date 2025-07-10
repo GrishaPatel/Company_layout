@@ -8,12 +8,6 @@ This project is a responsive team portfolio web page built with HTML and Tailwin
 - Section highlighting company stats (Partners, Projects, Happy Clients, Meetings)
 - Custom styles via `style.css`
 
-## Screenshot
-
-Below is a screenshot of the project:
-
-![Screenshot of the Team Portfolio]("C:\Users\Patel Grisha\OneDrive\Desktop\grisha\HTML\project_2\Image.png")
-
 ## Getting Started
 
 1. **Clone or Download** this repository to your local machine.
